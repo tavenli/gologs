@@ -1,2 +1,2 @@
 # gologs
-Nice logs module for golang
+Nice logs module for golang.
